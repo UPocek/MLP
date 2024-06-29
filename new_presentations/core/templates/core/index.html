@@ -1,0 +1,247 @@
+{% extends 'core/base.html' %} {% block content %}
+
+<main>
+  <div class="glow"></div>
+  <div class="glow-2"></div>
+
+  <section aria-labelledby="about-newpresentations.ai" id="top">
+    <h1 id="about-newpresentations.ai">New way to create presentations</h1>
+    <p>
+      This is New Presentations a fully automatic way to create beautiful
+      PowerPoint presentations with the power of our state of the art artificial
+      intelligence. You have an assignment in school or on job to create
+      PowerPoint presentation on a given topic let our AI take care of that for
+      you!
+    </p>
+    <a class="snavl" href="#">Get Started 💪</a>
+  </section>
+
+  <section id="app">
+    <div>
+      <h2>Yes, this is what you are looking for</h2>
+      <p>- Create your PowerPoint presentation with AI -</p>
+    </div>
+    <form id="appForm">
+      <div>
+        <label for="lang">Language</label>
+        <select name="lang" id="lang">
+          {% for lanuage in languages %}
+          <option value="{{ lanuage }}">{{ lanuage }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div id="myDropdown" class="dropdown-content show">
+        <label for="myInput">Title</label>
+        <input
+          type="text"
+          placeholder="Enter title here"
+          id="myInput"
+          name="myInput"
+          value=""
+          autocomplete="off"
+          required
+        />
+      </div>
+    </form>
+  </section>
+
+  <section
+    aria-label="Automatic presentation generator"
+    id="services"
+    class="section site-content center-relative site-wrapper"
+  >
+    <h3>Do everything in 3 easy steps</h3>
+    <div class="section-wrapper block content-1170 center-relative">
+      <div class="content-wrapper">
+        <div class="one_third">
+          <div class="service-holder">
+            <p class="service-num">1</p>
+            <div class="service-txt">
+              <h4>Tell us what you need</h4>
+              <p>
+                Fill out information about presentation you need in the form
+                above. If you need more customization options, or you just want
+                to be dear to our harts consider becoming premium member.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="one_third">
+          <div class="service-holder">
+            <p class="service-num">2</p>
+            <div class="service-txt">
+              <h4>Click a start button</h4>
+              <p>
+                Now comes the tricky part, you need to click button that says
+                START. Got it? Perfect!
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="one_third last">
+          <div class="service-holder">
+            <p class="service-num">3</p>
+            <div class="service-txt">
+              <h4>Present you masterpiece</h4>
+              <p>
+                Sit, relax, watch some of our finest ads and wait till our AI
+                finishes everything for you. So you can enchant everyone with
+                how good presentation is.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section
+    aria-labelledby="professional-templates"
+    id="we-are-best-1"
+    class="best-1"
+  >
+    <h2 id="professional-templates">100+ professional templates 🏆</h2>
+    <p>
+      We designed more than one hundred beautiful PowerPoint templates just for
+      you. Also, we have AI that chooses template that suites best for type of
+      presentation that you want to create. Just like magic!
+    </p>
+    <div class="carousel-wrap">
+      <div class="owl-carousel">
+        <div class="item">
+          <img
+            src="{% static 'core/images/p1.jpeg' %}"
+            alt="newpresentations.ai"
+          />
+        </div>
+        <div class="item">
+          <img
+            src="{% static 'core/images/p2.jpeg' %}"
+            alt="newpresentations.ai"
+          />
+        </div>
+        <div class="item">
+          <img
+            src="{% static 'core/images/p7.jpeg' %}"
+            alt="newpresentations.ai"
+          />
+        </div>
+        <div class="item">
+          <img
+            src="{% static 'core/images/p3.jpeg' %}"
+            alt="newpresentations.ai"
+          />
+        </div>
+        <div class="item">
+          <img
+            src="{% static 'core/images/p5.jpeg' %}"
+            alt="newpresentations.ai"
+          />
+        </div>
+        <div class="item">
+          <img
+            src="{% static 'core/images/p6.jpeg' %}"
+            alt="newpresentations.ai"
+          />
+        </div>
+        <div class="item">
+          <img
+            src="{% static 'core/images/p4.jpeg' %}"
+            alt="newpresentations.ai"
+          />
+        </div>
+        <div class="item">
+          <img
+            src="{% static 'core/images/p12.jpeg' %}"
+            alt="newpresentations.ai"
+          />
+        </div>
+        <div class="item">
+          <img
+            src="{% static 'core/images/p9.jpeg' %}"
+            alt="newpresentations.ai"
+          />
+        </div>
+        <div class="item">
+          <img
+            src="{% static 'core/images/p10.jpeg' %}"
+            alt="newpresentations.ai"
+          />
+        </div>
+        <div class="item">
+          <img
+            src="{% static 'core/images/p11.jpeg' %}"
+            alt="newpresentations.ai"
+          />
+        </div>
+        <div class="item">
+          <img
+            src="{% static 'core/images/p8.jpeg' %}"
+            alt="newpresentations.ai"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section
+    aria-labelledby="create-presentations-faster"
+    id="we-are-best-2"
+    class="best-2"
+  >
+    <h2 id="create-presentations-faster">7000% faster than humans 🚀</h2>
+    <p>
+      Humans are good at many things like picking bananas, but deep down we all
+      know that machines are way cooler. To create presentations where people
+      need hours of work, we at newpresentations.ai have created AI that can do
+      all the work for you in just minutes (approx. 5). Maybe you think that our
+      AI is too powerful and that it will take over the world, but don't worry
+      we have it under control, for now anyway.
+    </p>
+    <video src=""></video>
+  </section>
+
+  <section
+    aria-labelledby="professional-content"
+    id="we-are-best-3"
+    class="best-3"
+  >
+    <h2 id="professional-content">Professional texts & Summary 🎓</h2>
+    <p>
+      Our program first explores the internet in search of relevant information
+      about the requested topic. Then it categorises it from most to least
+      important and then do a summary of the text to be able to fit it better
+      onto the slide. Then it gathers the images and position them on right
+      places.
+    </p>
+    <video src=""></video>
+  </section>
+
+  <section
+    aria-labelledby="presentations-for-all"
+    id="we-are-best-4"
+    class="best-4"
+  >
+    <h2 id="presentations-for-all">100+ supported languages 🤯</h2>
+    <p>
+      Ohhh yea, we didn't want to be rude and not invite someone to the party,
+      because of that our artificial intelligence works with more than 100
+      languages. Yes even Zulu :-).
+    </p>
+    <video src=""></video>
+  </section>
+
+  <section aria-labelledby="new-pptx" id="we-are-best-5" class="best-5">
+    <h2 id="new-pptx">Completely customisable 🎨</h2>
+    <p>
+      Result of our program is completely standard, pretty awsome, but still
+      standard .pptx file, and because of that if our AI screwed up something
+      you can easily fix it.
+    </p>
+    <video src=""></video>
+  </section>
+</main>
+
+{% endblock %}

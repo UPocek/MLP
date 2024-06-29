@@ -1,0 +1,14 @@
+{% extends 'core/base.html' %} {% block content %}
+
+<main>
+    <div class="glow">
+    </div>
+    <div class="glow-2">
+    </div>
+    <section id="download-page">
+        <h1>Download presentation</h1>
+        <a href="{% url 'download_presentation' %}?presentation_name={{presentation}}" download>Here</a>
+    </section>
+</main>
+
+{% endblock %}

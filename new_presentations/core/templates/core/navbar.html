@@ -1,0 +1,41 @@
+<header class="header">
+  <nav id="nav1">
+    <div class="left">
+      <div class="ext">
+        <a href="{% url 'index' %}"
+          ><img
+            src="{% static 'core/images/logo.png' %}"
+            alt="New Presentations"
+        /></a>
+      </div>
+    </div>
+    <div class="right">
+      <a href="#">Log In</a>
+      <a class="snav" href="#">Get Started</a>
+    </div>
+  </nav>
+  <nav class="navbar">
+    <div class="container">
+      <div class="brand">
+        <a href="{% url 'index' %}"
+          ><img
+            src="{% static 'core/images/logo.png' %}"
+            alt="New Presentations"
+        /></a>
+      </div>
+      <div class="toggle">
+        <span class="toggle-btn"></span>
+      </div>
+      <div class="menu">
+        <ul class="menu-list">
+          <li class="menu-item">
+            <a href="#" class="menu-link">Log In</a>
+          </li>
+          <li class="menu-item">
+            <a href="#" class="menu-link">Get Started</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
