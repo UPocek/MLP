@@ -1,0 +1,510 @@
+Python (programming language) About the Python (programming language) major subject|1
+Python (programming language) Design philosophy and features major subject|1
+Python (programming language) Syntax and semantics Statements and control flow|2
+Python (programming language) Syntax and semantics Expressions|2
+Python (programming language) Syntax and semantics Typing|2
+Python (programming language) Syntax and semantics Arithmetic operations|3
+Python (programming language) Syntax and semantics major subject and Indentation|1
+Python (programming language) Libraries major subject|1
+Python (programming language) Development environments major subject|2
+Python (programming language) Implementations Other implementations|3
+Python (programming language) Implementations Unsupported implementations|3
+Python (programming language) Naming major subject|2
+Python (programming language) Popularity major subject|1
+Python (programming language) Uses major subject|1
+Python (programming language) Languages influenced by Python major subject|2
+Universe About the Universe major subject|1
+Universe Definition major subject|1
+Universe Chronology and the Big Bang major subject|1
+Universe Physical properties major subject|1
+Universe Physical properties Size and regions|2
+Universe Physical properties Age and expansion|2
+Universe Physical properties Spacetime|2
+Universe Physical properties Support of life|3
+Universe Composition major subject|1
+Universe Composition Dark energy|2
+Universe Composition Dark matter|2
+Universe Composition Ordinary matter|2
+Universe Composition Particles|3
+Universe Composition Hadrons|3
+Universe Composition Leptons|3
+Universe Composition Photons|3
+Universe Cosmological models Model of the universe based on general relativity|2
+Universe Cosmological models Multiverse hypotheses|3
+Universe Historical conceptions major subject|2
+Universe Historical conceptions Mythologies|3
+Universe Historical conceptions Philosophical models|3
+Universe Historical conceptions Astronomical concepts|2
+Dark matter About the Dark matter major subject|1
+Dark matter History Early history|3
+Dark matter History 1970s|3
+Dark matter History 1980s|3
+Dark matter Technical definition major subject|1
+Dark matter Observational evidence Galaxy rotation curves|2
+Dark matter Observational evidence Velocity dispersions|2
+Dark matter Observational evidence Galaxy clusters|2
+Dark matter Observational evidence Gravitational lensing|2
+Dark matter Observational evidence Cosmic microwave background|2
+Dark matter Observational evidence Structure formation|2
+Dark matter Observational evidence Sky surveys and baryon acoustic oscillations|3
+Dark matter Observational evidence Redshift-space distortions|3
+Dark matter Observational evidence Lyman-alpha forest|3
+Dark matter Observational evidence Bullet Cluster and Type Ia supernova distance measurements|3
+Dark matter Theoretical classifications Baryonic matter|3
+Dark matter Theoretical classifications Non-baryonic matter|2
+Dark matter Theoretical classifications Free streaming length|3
+Dark matter Theoretical classifications Fluctuation spectrum effects|3
+Dark matter Theoretical classifications Alternative definitions|3
+Dark matter Theoretical classifications Cold dark matter|2
+Dark matter Theoretical classifications Warm dark matter|3
+Dark matter Theoretical classifications Hot dark matter|3
+Dark matter Theoretical classifications Dark matter aggregation and dense dark matter objects|3
+Dark matter Detection of dark matter particles major subject|1
+Dark matter Detection of dark matter particles Indirect detection|2
+Dark matter Detection of dark matter particles Collider searches for dark matter|2
+Dark matter Alternative hypotheses major subject|1
+Dark energy About the Dark energy major subject|1
+Dark energy History of discovery and previous speculation Einstein's cosmological constant|3
+Dark energy History of discovery and previous speculation Inflationary dark energy|3
+Dark energy History of discovery and previous speculation Change in expansion over time|3
+Dark energy Nature major subject|1
+Dark energy Evidence of existence major subject|1
+Dark energy Evidence of existence Supernovae|2
+Dark energy Evidence of existence Cosmic microwave background|2
+Dark energy Evidence of existence Late-time integrated Sachs–Wolfe effect and Observational Hubble constant data|2
+Dark energy Theories of dark energy major subject|1
+Dark energy Theories of dark energy Cosmological constant|2
+Dark energy Theories of dark energy Quintessence|2
+Dark energy Theories of dark energy Interacting dark energy|3
+Dark energy Theories of dark energy Variable dark energy models|3
+Dark energy Other mechanism driving acceleration Modified gravity|3
+Dark energy Other mechanism driving acceleration Non-linearities of General Relativity equations|3
+Dark energy Implications for the fate of the universe major subject|1
+Dark energy In philosophy of science major subject|3
+Milky Way About the Milky Way major subject|1
+Milky Way Etymology and mythology major subject|2
+Milky Way Appearance major subject|1
+Milky Way Astronomical history Telescopic observations|2
+Milky Way Astronomical history Satellite observations|2
+Milky Way Astrography Galactic quadrants|3
+Milky Way Size and mass Mass|2
+Milky Way Contents major subject|1
+Milky Way Structure major subject|1
+Milky Way Structure Galactic Center|2
+Milky Way Formation History|1
+Milky Way Formation Age and cosmological history|2
+Milky Way Intergalactic neighbourhood major subject|2
+Milky Way Velocity major subject|3
+Solar System About the Solar System major subject|1
+Solar System Formation and evolution Past|2
+Solar System Formation and evolution Present and future|2
+Solar System General characteristics major subject|1
+Solar System General characteristics Composition|2
+Solar System General characteristics Orbits|2
+Solar System General characteristics Habitability|2
+Solar System General characteristics Comparison with extrasolar systems|3
+Solar System Sun major subject|1
+Solar System Inner Solar System major subject|1
+Solar System Inner Solar System Inner planets|2
+Solar System Inner Solar System Asteroids|2
+Solar System Outer Solar System major subject|1
+Solar System Outer Solar System Outer planets|2
+Solar System Outer Solar System Centaurs and trojans|3
+Solar System Trans-Neptunian region major subject|1
+Solar System Trans-Neptunian region Kuiper belt|2
+Solar System Trans-Neptunian region Scattered disc|2
+Solar System Trans-Neptunian region Extreme trans-Neptunian objects|3
+Solar System Trans-Neptunian region Edge of the heliosphere|3
+Solar System Miscellaneous populations Comets|2
+Solar System Miscellaneous populations Meteoroids, meteors and dust|3
+Solar System Boundary area and uncertainties major subject|2
+Solar System Celestial neighborhood major subject|2
+Solar System Galactic position major subject|2
+Solar System Discovery and exploration major subject|1
+Earth About the Earth major subject|1
+Earth Etymology major subject|3
+Earth Natural history Formation|1
+Earth Natural history After formation|2
+Earth Natural history Origin of life and evolution|1
+Earth Natural history Future|2
+Earth Physical characteristics Surface|1
+Earth Physical characteristics Tectonic plates|2
+Earth Physical characteristics Internal structure|2
+Earth Physical characteristics Internal heat|3
+Earth Physical characteristics Gravitational field|2
+Earth Physical characteristics Magnetic field|2
+Earth Orbit and rotation Rotation|2
+Earth Orbit and rotation Orbit|2
+Earth Orbit and rotation Axial tilt and seasons|2
+Earth Earth–Moon system Moon|2
+Earth Earth–Moon system Asteroids and artificial satellites|3
+Earth Hydrosphere major subject|1
+Earth Atmosphere Upper atmosphere|2
+Earth Life on Earth major subject|1
+Earth Human geography major subject|1
+Earth Human geography Natural resources and land use|2
+Earth Human geography Humans and the environment|2
+Earth Cultural and historical viewpoint major subject|2
+Plate tectonics About the Plate tectonics major subject|1
+Plate tectonics Key principles major subject|1
+Plate tectonics Types of plate boundaries major subject|1
+Plate tectonics Driving forces of plate motion major subject|1
+Plate tectonics Driving forces of plate motion Driving forces related to mantle dynamics|2
+Plate tectonics Driving forces of plate motion Plume tectonics|3
+Plate tectonics Driving forces of plate motion Surge tectonics|3
+Plate tectonics Driving forces of plate motion Driving forces related to gravity|2
+Plate tectonics Driving forces of plate motion Driving forces related to Earth rotation|3
+Plate tectonics History of the theory Summary|2
+Plate tectonics History of the theory Continental drift|2
+Plate tectonics History of the theory Floating continents, paleomagnetism, and seismicity zones|2
+Plate tectonics History of the theory Mid-oceanic ridge spreading and convection|2
+Plate tectonics History of the theory Definition and refining of the theory|2
+Plate tectonics Plate reconstruction Past plate motions|2
+Plate tectonics Plate reconstruction Formation and break-up of continents|2
+Plate tectonics Modern plates major subject|1
+Plate tectonics Other celestial bodies Venus|3
+Plate tectonics Other celestial bodies Mars|3
+Plate tectonics Other celestial bodies Icy satellites|3
+Plate tectonics Other celestial bodies Exoplanets|3
+Climate change About the Climate change major subject|1
+Climate change Terminology major subject|1
+Climate change Global temperature rise Temperature records prior to global warming|2
+Climate change Global temperature rise Warming since the Industrial Revolution|2
+Climate change Causes of recent global temperature rise major subject|1
+Climate change Causes of recent global temperature rise Greenhouse gases|2
+Climate change Causes of recent global temperature rise Land surface changes|2
+Climate change Causes of recent global temperature rise Aerosols and clouds|2
+Climate change Causes of recent global temperature rise Solar and volcanic activity|3
+Climate change Causes of recent global temperature rise Climate change feedbacks|3
+Climate change Modelling major subject|1
+Climate change Impacts Environmental effects|2
+Climate change Impacts Tipping points and long-term impacts|2
+Climate change Impacts Nature and wildlife|2
+Climate change Impacts Humans|2
+Climate change Impacts Food and health|2
+Climate change Impacts Livelihoods and inequality|3
+Climate change Impacts Climate migration|3
+Climate change Reducing and recapturing emissions major subject|1
+Climate change Reducing and recapturing emissions Clean energy|2
+Climate change Reducing and recapturing emissions Energy conservation|2
+Climate change Reducing and recapturing emissions Agriculture and industry|2
+Climate change Reducing and recapturing emissions Carbon sequestration|3
+Climate change Adaptation major subject|1
+Climate change Policies and politics major subject|1
+Climate change Policies and politics Policy options|2
+Climate change Society Denial and misinformation|3
+Climate change Society Public awareness and opinion|2
+Climate change History Early discoveries|2
+Climate change History Development of a scientific consensus|2
+Evolution About the Evolution major subject|1
+Evolution Heredity major subject|1
+Evolution Sources of variation major subject|1
+Evolution Sources of variation Mutation|2
+Evolution Sources of variation Sex and recombination|2
+Evolution Sources of variation Gene flow|2
+Evolution Sources of variation Epigenetics|3
+Evolution Evolutionary forces major subject|1
+Evolution Evolutionary forces Natural selection|2
+Evolution Evolutionary forces Genetic drift|2
+Evolution Evolutionary forces Mutation bias|3
+Evolution Evolutionary forces Genetic hitchhiking|3
+Evolution Evolutionary forces Sexual selection|2
+Evolution Natural outcomes major subject|1
+Evolution Natural outcomes Adaptation|2
+Evolution Natural outcomes Coevolution|2
+Evolution Natural outcomes Cooperation|3
+Evolution Natural outcomes Speciation|2
+Evolution Natural outcomes Extinction|2
+Evolution Applications major subject|1
+Evolution Evolutionary history of life Origin of life|2
+Evolution Evolutionary history of life Common descent|2
+Evolution Evolutionary history of life Evolution of life|2
+Evolution History of evolutionary thought Classical antiquity|3
+Evolution History of evolutionary thought Middle Ages|3
+Evolution History of evolutionary thought Pre-Darwinian|3
+Evolution History of evolutionary thought Darwinian revolution|2
+Evolution History of evolutionary thought Pangenesis and heredity|3
+Evolution History of evolutionary thought The modern synthesis|2
+Evolution History of evolutionary thought Further syntheses|3
+Evolution Social and cultural responses major subject|1
+DNA About the DNA major subject|1
+DNA Properties major subject|1
+DNA Properties Nucleobase classification|2
+DNA Properties Grooves|3
+DNA Properties Base pairing|2
+DNA Chemical modifications and altered DNA packaging Base modifications and DNA packaging|2
+DNA Chemical modifications and altered DNA packaging Damage|3
+DNA Biological functions major subject|1
+DNA Biological functions Genes and genomes|2
+DNA Biological functions Transcription and translation|2
+DNA Biological functions Replication|2
+DNA Biological functions Extracellular nucleic acids|3
+DNA Interactions with proteins major subject|1
+DNA Interactions with proteins DNA-binding proteins|2
+DNA Interactions with proteins Nucleases and ligases|3
+DNA Interactions with proteins Topoisomerases and helicases|3
+DNA Interactions with proteins Polymerases|2
+DNA Genetic recombination major subject|1
+DNA Evolution major subject|1
+DNA Uses in technology Genetic engineering|2
+DNA Uses in technology DNA profiling|2
+DNA Uses in technology DNA enzymes or catalytic DNA|3
+DNA Uses in technology Bioinformatics|3
+DNA Uses in technology DNA nanotechnology|3
+DNA Uses in technology History and anthropology|3
+DNA History major subject|1
+Photosynthesis About the Photosynthesis major subject|1
+Photosynthesis Overview major subject|1
+Photosynthesis Photosynthetic membranes and organelles major subject|1
+Photosynthesis Light-dependent reactions major subject|1
+Photosynthesis Light-dependent reactions Z scheme|2
+Photosynthesis Light-dependent reactions Water photolysis|3
+Photosynthesis Light-independent reactions In water|3
+Photosynthesis Light-independent reactions Calvin cycle and On land|2
+Photosynthesis Efficiency major subject|1
+Photosynthesis Evolution major subject|1
+Photosynthesis Evolution Symbiosis and the origin of chloroplasts|2
+Photosynthesis Evolution Photosynthetic eukaryotic lineages|3
+Photosynthesis Evolution Photosynthetic prokaryotic lineages|3
+Photosynthesis Evolution Cyanobacteria and the evolution of photosynthesis|2
+Photosynthesis Experimental history Discovery|2
+Photosynthesis Experimental history C3 : C4 photosynthesis research|3
+Photosynthesis Experimental history Refinements and Development of the concept|3
+Photosynthesis Factors major subject|1
+Photosynthesis Factors Light intensity (irradiance), wavelength and temperature|2
+Photosynthesis Factors Carbon dioxide levels and photorespiration|2
+Cell About the Cell major subject|1
+Cell Science, mathematics, and technology Other uses in science and technology|2
+Human body About the Human body major subject|1
+Human body Composition major subject|1
+Human body Composition Cells|2
+Human body Anatomy major subject|1
+Human body Physiology major subject|1
+Human body Development major subject|1
+Human body Society and culture History of anatomy|2
+Human body Society and culture History of physiology|2
+Human body Society and culture Professional study and Depiction|3
+Brain About the Brain major subject|1
+Brain Structure major subject|1
+Brain Structure Cellular structure|2
+Brain Structure Generic bilaterian nervous system|3
+Brain Structure Invertebrates|3
+Brain Structure Reptiles|3
+Brain Structure Mammals|2
+Brain Development major subject|1
+Brain Physiology major subject|1
+Brain Physiology Neurotransmitters and receptors|2
+Brain Physiology Electrical activity|2
+Brain Physiology Metabolism|2
+Brain Function major subject|1
+Brain Function Perception|2
+Brain Function Motor control|2
+Brain Function Sleep|2
+Brain Function Homeostasis|2
+Brain Function Motivation|2
+Brain Function Learning and memory|2
+Brain Research major subject|1
+Brain Society and culture In rituals|3
+Machine learning About the Machine learning major subject|1
+Machine learning History major subject|1
+Machine learning Relationships to other fields Statistics|2
+Machine learning Relationships to other fields Statistical physics|3
+Machine learning Relationships to other fields Artificial intelligence and Generalization|2
+Machine learning Theory major subject|1
+Machine learning Approaches major subject|1
+Machine learning Approaches Supervised learning|2
+Machine learning Approaches Unsupervised learning|2
+Machine learning Approaches Semi-supervised learning|3
+Machine learning Approaches Reinforcement learning|2
+Machine learning Approaches Dimensionality reduction|3
+Machine learning Approaches Self-learning|3
+Machine learning Approaches Feature learning|3
+Machine learning Approaches Sparse dictionary learning|3
+Machine learning Approaches Anomaly detection|3
+Machine learning Approaches Association rules|3
+Machine learning Models major subject|1
+Machine learning Models Artificial neural networks|2
+Machine learning Models Decision trees|2
+Machine learning Models Support-vector machines|2
+Machine learning Models Regression analysis|2
+Machine learning Models Bayesian networks|3
+Machine learning Models Gaussian processes|3
+Machine learning Models Genetic algorithms|3
+Machine learning Models Belief functions|3
+Machine learning Models Training models|3
+Machine learning Applications major subject|1
+Machine learning Limitations major subject|1
+Machine learning Limitations Bias|2
+Machine learning Limitations Explainability|2
+Machine learning Limitations Other limitations and vulnerabilities|3
+Machine learning Ethics major subject|1
+Machine learning Hardware Neuromorphic/Physical Neural Networks|2
+Machine learning Hardware Embedded Machine Learning|2
+Internet About the Internet major subject|1
+Internet Terminology major subject|1
+Internet History major subject|1
+Internet Infrastructure major subject|1
+Internet Infrastructure Service tiers|2
+Internet Infrastructure Access|2
+Internet Internet Protocol Suite major subject|1
+Internet Internet Protocol Suite IP Addresses|2
+Internet Internet Protocol Suite IPv6|2
+Internet Internet Protocol Suite Subnetwork|2
+Internet Internet Protocol Suite Routing|2
+Internet Internet Protocol Suite IETF|2
+Internet Applications and services major subject|1
+Internet Applications and services World Wide Web|2
+Internet Applications and services Communication|2
+Internet Applications and services Data transfer|2
+Internet Social impact major subject|1
+Internet Social impact Users|2
+Internet Social impact Usage|2
+Internet Social impact Social networking and entertainment|2
+Internet Social impact Electronic business|2
+Internet Social impact Remote work|2
+Internet Social impact Collaborative publishing|2
+Internet Social impact Politics and political revolutions|2
+Internet Social impact Philanthropy|2
+Internet Security Malware|2
+Internet Security Surveillance|2
+Internet Security Censorship|2
+Internet Performance Traffic volume|2
+Internet Performance Outages|2
+Internet Performance Energy use|2
+World Wide Web Function Search engine|3
+World Wide Web Function Deep web|3
+World Wide Web Function Caching|3
+World Wide Web Security major subject|1
+World Wide Web Privacy major subject|1
+World Wide Web Standards major subject|1
+World Wide Web Accessibility major subject|1
+World Wide Web Internationalisation major subject|1
+Computer science About the Computer science major subject|1
+Computer science History major subject|1
+Computer science Etymology and scope major subject|1
+Computer science Philosophy Epistemology of computer science|3
+Computer science Philosophy Paradigms of computer science|3
+Computer science Fields major subject|1
+Computer science Fields Theory of computation|2
+Computer science Fields Information and coding theory|3
+Computer science Fields Programming language theory and formal methods|3
+Computer science Fields Computer graphics and visualization|3
+Computer science Fields Image and sound processing|3
+Computer science Fields Software engineering|2
+Computer science Fields Artificial intelligence|2
+Computer science Fields Computer architecture and organization|3
+Computer science Fields Concurrent, parallel and distributed computing|3
+Computer science Fields Computer security and cryptography and Databases and data mining|3
+Computer science Discoveries major subject|1
+Computer science Programming paradigms major subject|1
+Computer science Research major subject|1
+Quantum mechanics About the Quantum mechanics major subject|1
+Quantum mechanics Overview and fundamental concepts major subject|1
+Quantum mechanics Mathematical formulation Time evolution of a quantum state|3
+Quantum mechanics Mathematical formulation Uncertainty principle|2
+Quantum mechanics Mathematical formulation Composite systems and entanglement|3
+Quantum mechanics Mathematical formulation Equivalence between formulations|3
+Quantum mechanics Examples Free particle|3
+Quantum mechanics Examples Particle in a box|3
+Quantum mechanics Examples Mach–Zehnder interferometer|3
+Quantum mechanics Applications major subject|1
+Quantum mechanics Relation to other scientific theories Classical mechanics|3
+Quantum mechanics Relation to other scientific theories Special relativity and electrodynamics|3
+Quantum mechanics Relation to other scientific theories Relation to general relativity|3
+Quantum mechanics Philosophical implications major subject|1
+Quantum mechanics History major subject|1
+General relativity About the General relativity major subject|1
+General relativity History major subject|1
+General relativity From classical mechanics to general relativity major subject|1
+General relativity From classical mechanics to general relativity Geometry of Newtonian gravity|3
+General relativity From classical mechanics to general relativity Einstein's equations|2
+General relativity From classical mechanics to general relativity Total force in general relativity|3
+General relativity Definition and basic applications Definition and basic properties|2
+General relativity Definition and basic applications Model-building|3
+General relativity Consequences of Einstein's theory Gravitational time dilation and frequency shift|2
+General relativity Consequences of Einstein's theory Light deflection and gravitational time delay|3
+General relativity Consequences of Einstein's theory Gravitational waves|2
+General relativity Consequences of Einstein's theory Precession of apsides|3
+General relativity Consequences of Einstein's theory Orbital decay|3
+General relativity Consequences of Einstein's theory Geodetic precession and frame-dragging|3
+General relativity Astrophysical applications Gravitational lensing|3
+General relativity Astrophysical applications Gravitational-wave astronomy|3
+General relativity Astrophysical applications Black holes and other compact objects|2
+General relativity Astrophysical applications Cosmology|2
+General relativity Astrophysical applications Exotic solutions: time travel, warp drives|3
+General relativity Advanced concepts Asymptotic symmetries|3
+General relativity Advanced concepts Horizons|3
+General relativity Advanced concepts Singularities|3
+General relativity Advanced concepts Evolution equations|3
+General relativity Advanced concepts Global and quasi-local quantities|3
+General relativity Relationship with quantum theory major subject|1
+General relativity Relationship with quantum theory Quantum field theory in curved spacetime|3
+General relativity Current status major subject|1
+History About the History major subject|1
+History Etymology major subject|1
+History Description major subject|1
+History Prehistory major subject|1
+History Historiography major subject|1
+History Methods major subject|1
+History Areas of study Periods|3
+History Historians major subject|1
+History Judgement major subject|1
+History Pseudohistory major subject|1
+History Teaching Scholarship vs teaching|3
+History Teaching Nationalism|3
+History Teaching Bias in school teaching|3
+Archaeology About the Archaeology major subject|1
+Archaeology History First instances of archaeology|3
+Archaeology History Antiquarians|3
+Archaeology History First excavations|3
+Archaeology History Development of archaeological method|3
+Archaeology Purpose major subject|1
+Archaeology Methods major subject|1
+Archaeology Methods Remote sensing|3
+Archaeology Methods Field survey|3
+Archaeology Methods Excavation|2
+Archaeology Methods Analysis|3
+Archaeology Methods Computational and virtual archaeology|3
+Archaeology Methods Drones|3
+Archaeology Academic sub-disciplines Historical archaeology|3
+Archaeology Academic sub-disciplines Archaeometry|3
+Archaeology Academic sub-disciplines Cultural resources management|3
+Archaeology Academic sub-disciplines Ethnoarchaeology and Experimental archaeology|3
+Archaeology Protection major subject|1
+Archaeology Popular views of archaeology major subject|1
+Archaeology Current issues and controversy Public archaeology|3
+Archaeology Current issues and controversy Pseudoarchaeology|3
+Archaeology Current issues and controversy Looting|3
+Archaeology Current issues and controversy Descendant peoples|3
+Ancient Egypt About the Ancient Egypt major subject|1
+Ancient Egypt History major subject|1
+Ancient Egypt History Predynastic period|3
+Ancient Egypt History Early Dynastic Period (c. 3150–2686 BC)|3
+Ancient Egypt History Old Kingdom (2686–2181 BC)|2
+Ancient Egypt History First Intermediate Period (2181–2055 BC)|3
+Ancient Egypt History Middle Kingdom (2134–1690 BC)|2
+Ancient Egypt History Second Intermediate Period (1674–1549 BC) and the Hyksos|3
+Ancient Egypt History New Kingdom (1549–1069 BC)|2
+Ancient Egypt History Third Intermediate Period (1069–653 BC)|3
+Ancient Egypt History Late Period (653–332 BC)|3
+Ancient Egypt History Ptolemaic period (332–30 BC)|3
+Ancient Egypt Government and economy Administration and commerce|3
+Ancient Egypt Government and economy Social status|3
+Ancient Egypt Government and economy Legal system|3
+Ancient Egypt Government and economy Agriculture|3
+Ancient Egypt Language Historical development|3
+Ancient Egypt Language Sounds and grammar|3
+Ancient Egypt Language Writing|2
+Ancient Egypt Language Literature|3
+Ancient Egypt Culture Daily life|3
+Ancient Egypt Culture Cuisine|3
+Ancient Egypt Culture Architecture|2
+Ancient Egypt Culture Art|2
+Ancient Egypt Culture Religious beliefs|2
+Ancient Egypt Culture Burial customs|2
+Ancient Egypt Military major subject|2
+Ancient Egypt Technology, medicine and mathematics Faience and glass|2
+Ancient Egypt Technology, medicine and mathematics Medicine|2
+Ancient Egypt Technology, medicine and mathematics Maritime technology|2
+Ancient Egypt Technology, medicine and mathematics Mathematics|2
+Ancient Egypt Legacy major subject|2
